@@ -1,0 +1,7 @@
+venv/**
+.venv/**
+.env
+.vscode/**
+notes.md
+.python-version
+data
